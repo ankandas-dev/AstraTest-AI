@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Reports
+reports/
+
+# Screenshots
+screenshots/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Playwright
+playwright-report/
+test-results/
+
+# Robot Framework
+output.xml
+report.html
+log.html
+
+# OS
+.DS_Store
+Thumbs.db
