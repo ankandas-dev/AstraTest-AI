@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-community
+langchain-openai
+chromadb
+faiss-cpu
+sentence-transformers
+ollama
+tiktoken
